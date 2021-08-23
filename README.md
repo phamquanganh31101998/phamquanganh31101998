@@ -1,4 +1,4 @@
-### Hi there 👋, it's your favorite dev [Quang Anh](http://github.com/phamquanganh31101998)
+### Hi there 👋, it's your favorite dev [Quang Anh](http://github.com/phamquanganh31101998) !
 2 years of developing various number of web projects and still going on...
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phamquanganh31101998&layout=compact)
