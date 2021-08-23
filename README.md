@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, it's your favorite dev https://github.com/phamquanganh31101998!
 2 years of developing various number of web projects and still going on...
 
 <!--
