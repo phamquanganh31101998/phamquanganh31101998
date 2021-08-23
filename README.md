@@ -1,9 +1,5 @@
 ### Hi there 👋, it's your favorite dev Quang Anh!
 2 years of developing various number of web projects and still going on...
-\n
-Find me at quanganhpham31101998@gmail.com
-\n
-Or call me at (+84 852665998)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phamquanganh31101998&layout=compact)
 <!--
