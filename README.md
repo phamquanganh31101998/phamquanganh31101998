@@ -1,8 +1,8 @@
-### Hi there 👋, it's me [Quang Anh](http://github.com/phamquanganh31101998) !
+### Hi there 👋 !
 
 - 🇻🇳 Living in Hanoi, Vietnam
 - 🔭 Currently working on Javascript stacks
-- 🤔 Being curious a lot ...
+- 🤔 But being curious a lot about OS, Networking,...
 - 💬 Ask me about developing, and other things like Fitness and Lifestyle
 
 
