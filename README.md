@@ -2,7 +2,7 @@
 
 - 🇻🇳 Living in Hanoi, Vietnam
 - 🔭 Currently working on Javascript stacks
-- 🤔 But being curious a lot about OS, Networking,...
+- 🤔 But being curious a lot about Core concepts like OS, Networking,...
 - 💬 Ask me about developing, and other things like Fitness and Lifestyle
 
 
