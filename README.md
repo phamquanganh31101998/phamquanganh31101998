@@ -1,7 +1,7 @@
 ### Hi there 👋 !
 
 - 🇻🇳 Living in Hanoi, Vietnam
-- 🔭 Currently working on Javascript stacks
+- 🔭 Currently working on Javascript stacks like React, Next, Node, Nest
 - 🤔 But being curious a lot about Core concepts like OS, Networking,...
 - 💬 Ask me about developing, and other things like Fitness and Lifestyle
 
