@@ -1,11 +1,15 @@
-### Hi there 👋 !
-
+### Hi there 👋 ! I'll show you a few things about me:
 - 🇻🇳 Living in Hanoi, Vietnam
-- 🔭 Currently working on Javascript stacks like React, Next, Node, Nest
+- 🔭 Currently working on Javascript stacks, but willing to learn any new stack if needed (or loved) 
 - 🤔 But being curious a lot about Core concepts like OS, Networking,...
-- 💬 Ask me about developing, and other things like Fitness and Lifestyle
+- 💬 Fun fact: Really love music, sports, healthy lifestyle!
 
+### Please don't hesitate to find me at:
+- [My email](quanganhpham31101998@gmail.com)
+- [My github](https://github.com/phamquanganh31101998)
+- [My Linkedin](https://www.linkedin.com/in/quang-anh-pham/)
 
+  
 <!--
 **phamquanganh31101998/phamquanganh31101998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phamquanganh31101998&layout=compact)
