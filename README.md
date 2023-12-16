@@ -5,7 +5,7 @@
 - 💬 Fun fact: Really love music, sports, healthy lifestyle!
 
 ### Please don't hesitate to find me at:
-- Email: quanganhpham31101998@gmail.com
+- quanganhpham31101998@gmail.com
 - [My github](https://github.com/phamquanganh31101998)
 - [My Linkedin](https://www.linkedin.com/in/quang-anh-pham/)
 
