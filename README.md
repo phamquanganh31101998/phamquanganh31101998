@@ -1,7 +1,7 @@
-### Hi there 👋 ! I'll show you a few things about me:
+### 👋 I'll show you a few things about me:
 - 🇻🇳 Living in Hanoi, Vietnam
-- 🔭 Currently working on Javascript stacks, but willing to learn any new stack if needed (or loved) 
-- 🤔 But being curious a lot about Core concepts like OS, Networking,...
+- 🔭 Currently working on Javascript stacks, but willing to learn any new tech if needed (or loved) 
+- 🤔 Being curious a lot about Core concepts like OS, Networking,...
 - 💬 Fun fact: Really love music, sports, healthy lifestyle!
 
 ### Please don't hesitate to find me at:
