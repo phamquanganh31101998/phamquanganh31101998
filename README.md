@@ -6,7 +6,7 @@
 
 ### Please don't hesitate to find me at:
 - quanganhpham31101998@gmail.com
-- [My github](https://github.com/phamquanganh31101998)
+- [My Github](https://github.com/phamquanganh31101998)
 - [My Linkedin](https://www.linkedin.com/in/quang-anh-pham/)
 
   
