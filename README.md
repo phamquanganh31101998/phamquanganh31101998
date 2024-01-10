@@ -1,8 +1,8 @@
-### 👋 I'll show you a few things about me:
+### 👋👋👋
 - 🇻🇳 Living in Hanoi, Vietnam
 - 🔭 Currently working on Javascript stacks, but willing to learn any new tech if needed (or loved) 
 - 🤔 Improving Algorithms!
-- 💬 Fun fact: Really love music, sports, healthy lifestyle
+- 💬 Fun fact: Really love music, sports, and collecting playing cards.
 
 ### Please don't hesitate to find me at:
 - quanganhpham31101998@gmail.com
