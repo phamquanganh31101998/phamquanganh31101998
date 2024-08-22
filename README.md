@@ -5,7 +5,7 @@
 - 💬 Fun fact: Really love music, sports, and collecting playing cards.
 
 ### Please don't hesitate to find me at:
-- quanganhpham31101998@gmail.com
+- My email: quanganhpham31101998@gmail.com
 - [My Github](https://github.com/phamquanganh31101998)
 - [My Linkedin](https://www.linkedin.com/in/quang-anh-pham/)
 
