@@ -2,7 +2,6 @@
 - 🇻🇳 Living in Hanoi, Vietnam
 - 🔭 Currently working on Javascript stacks, but willing to learn any new tech stacks if needed (or loved) 
 - 🤔 Improving Algorithms!
-- 💬 Fun fact: Really love music, sports, and collecting playing cards.
 
 ### Please don't hesitate to find me at:
 - My email: quanganhpham31101998@gmail.com
