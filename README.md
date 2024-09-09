@@ -4,9 +4,8 @@
 - 🤔 Improving Algorithms!
 
 ### Please don't hesitate to find me at:
-- My email: quanganhpham31101998@gmail.com
-- [My Github](https://github.com/phamquanganh31101998)
-- [My Linkedin](https://www.linkedin.com/in/quang-anh-pham/)
+- Email: quanganhpham31101998@gmail.com
+- Linkedin: https://www.linkedin.com/in/quang-anh-pham/
 
   
 <!--
